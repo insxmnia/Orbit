@@ -1,0 +1,17 @@
+E:\Projects\Programs\Orbit\Orbit\bin\x64\Release\net6.0-windows7.0\Orbit.exe
+E:\Projects\Programs\Orbit\Orbit\bin\x64\Release\net6.0-windows7.0\Orbit.deps.json
+E:\Projects\Programs\Orbit\Orbit\bin\x64\Release\net6.0-windows7.0\Orbit.runtimeconfig.json
+E:\Projects\Programs\Orbit\Orbit\bin\x64\Release\net6.0-windows7.0\Orbit.dll
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.csproj.AssemblyReference.cache
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.Main.resources
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.Properties.Resources.resources
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.csproj.GenerateResource.cache
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.AssemblyInfoInputs.cache
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.AssemblyInfo.cs
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.csproj.CoreCompileInputs.cache
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.dll
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\refint\Orbit.dll
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.genruntimeconfig.cache
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\ref\Orbit.dll
+E:\Projects\Programs\Orbit\Orbit\obj\x64\Release\net6.0-windows7.0\Orbit.Forms.ProcessSelector.resources
